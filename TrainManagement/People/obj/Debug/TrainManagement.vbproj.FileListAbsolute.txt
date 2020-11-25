@@ -1,0 +1,50 @@
+C:\Users\Propietario\Desktop\TrainManagement\People\bin\Debug\People.exe.config
+C:\Users\Propietario\Desktop\TrainManagement\People\bin\Debug\People.exe
+C:\Users\Propietario\Desktop\TrainManagement\People\bin\Debug\People.pdb
+C:\Users\Propietario\Desktop\TrainManagement\People\bin\Debug\People.xml
+C:\Users\Propietario\Desktop\TrainManagement\People\obj\Debug\TrainManagement.vbprojAssemblyReference.cache
+C:\Users\Propietario\Desktop\TrainManagement\People\obj\Debug\People.Resources.resources
+C:\Users\Propietario\Desktop\TrainManagement\People\obj\Debug\People.ConnectForm.resources
+C:\Users\Propietario\Desktop\TrainManagement\People\obj\Debug\People.MainForm.resources
+C:\Users\Propietario\Desktop\TrainManagement\People\obj\Debug\TrainManagement.vbproj.GenerateResource.cache
+C:\Users\Propietario\Desktop\TrainManagement\People\obj\Debug\TrainManagement.vbproj.CoreCompileInputs.cache
+C:\Users\Propietario\Desktop\TrainManagement\People\obj\Debug\People.exe
+C:\Users\Propietario\Desktop\TrainManagement\People\obj\Debug\People.xml
+C:\Users\Propietario\Desktop\TrainManagement\People\obj\Debug\People.pdb
+C:\Users\Propietario\Desktop\TrainManagement\People\obj\Debug\People.FormRankingTypeTrains.resources
+C:\Users\Propietario\Desktop\TrainManagement\People\obj\Debug\People.FormRankingProducts.resources
+C:\Users\Propietario\Desktop\TrainManagement\People\obj\Debug\People.FormTripsAndProducts.resources
+D:\Descargas\TrainManagement\People\bin\Debug\People.exe.config
+D:\Descargas\TrainManagement\People\bin\Debug\People.exe
+D:\Descargas\TrainManagement\People\bin\Debug\People.pdb
+D:\Descargas\TrainManagement\People\bin\Debug\People.xml
+D:\Descargas\TrainManagement\People\obj\Debug\TrainManagement.vbprojAssemblyReference.cache
+D:\Descargas\TrainManagement\People\obj\Debug\People.Resources.resources
+D:\Descargas\TrainManagement\People\obj\Debug\People.ConnectForm.resources
+D:\Descargas\TrainManagement\People\obj\Debug\People.FormInformation.resources
+D:\Descargas\TrainManagement\People\obj\Debug\People.FormRankingProducts.resources
+D:\Descargas\TrainManagement\People\obj\Debug\People.FormRankingTypeTrains.resources
+D:\Descargas\TrainManagement\People\obj\Debug\People.FormTripsAndProducts.resources
+D:\Descargas\TrainManagement\People\obj\Debug\People.MainForm.resources
+D:\Descargas\TrainManagement\People\obj\Debug\TrainManagement.vbproj.GenerateResource.cache
+D:\Descargas\TrainManagement\People\obj\Debug\People.exe
+D:\Descargas\TrainManagement\People\obj\Debug\People.xml
+D:\Descargas\TrainManagement\People\obj\Debug\People.pdb
+C:\Users\Propietario\Desktop\TrainManagement\People\obj\Debug\People.FormInformation.resources
+C:\Users\Propietario\Desktop\Juan Tomás\Segundo\Databases\lab 2º año\TrainManagement\People\bin\Debug\People.exe.config
+C:\Users\Propietario\Desktop\Juan Tomás\Segundo\Databases\lab 2º año\TrainManagement\People\bin\Debug\People.exe
+C:\Users\Propietario\Desktop\Juan Tomás\Segundo\Databases\lab 2º año\TrainManagement\People\bin\Debug\People.pdb
+C:\Users\Propietario\Desktop\Juan Tomás\Segundo\Databases\lab 2º año\TrainManagement\People\bin\Debug\People.xml
+C:\Users\Propietario\Desktop\Juan Tomás\Segundo\Databases\lab 2º año\TrainManagement\People\obj\Debug\TrainManagement.vbprojAssemblyReference.cache
+C:\Users\Propietario\Desktop\Juan Tomás\Segundo\Databases\lab 2º año\TrainManagement\People\obj\Debug\People.Resources.resources
+C:\Users\Propietario\Desktop\Juan Tomás\Segundo\Databases\lab 2º año\TrainManagement\People\obj\Debug\People.ConnectForm.resources
+C:\Users\Propietario\Desktop\Juan Tomás\Segundo\Databases\lab 2º año\TrainManagement\People\obj\Debug\People.FormInformation.resources
+C:\Users\Propietario\Desktop\Juan Tomás\Segundo\Databases\lab 2º año\TrainManagement\People\obj\Debug\People.FormRankingProducts.resources
+C:\Users\Propietario\Desktop\Juan Tomás\Segundo\Databases\lab 2º año\TrainManagement\People\obj\Debug\People.FormRankingTypeTrains.resources
+C:\Users\Propietario\Desktop\Juan Tomás\Segundo\Databases\lab 2º año\TrainManagement\People\obj\Debug\People.FormTripsAndProducts.resources
+C:\Users\Propietario\Desktop\Juan Tomás\Segundo\Databases\lab 2º año\TrainManagement\People\obj\Debug\People.MainForm.resources
+C:\Users\Propietario\Desktop\Juan Tomás\Segundo\Databases\lab 2º año\TrainManagement\People\obj\Debug\TrainManagement.vbproj.GenerateResource.cache
+C:\Users\Propietario\Desktop\Juan Tomás\Segundo\Databases\lab 2º año\TrainManagement\People\obj\Debug\TrainManagement.vbproj.CoreCompileInputs.cache
+C:\Users\Propietario\Desktop\Juan Tomás\Segundo\Databases\lab 2º año\TrainManagement\People\obj\Debug\People.exe
+C:\Users\Propietario\Desktop\Juan Tomás\Segundo\Databases\lab 2º año\TrainManagement\People\obj\Debug\People.xml
+C:\Users\Propietario\Desktop\Juan Tomás\Segundo\Databases\lab 2º año\TrainManagement\People\obj\Debug\People.pdb

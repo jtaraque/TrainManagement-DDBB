@@ -1,0 +1,111 @@
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD18\Lab\people\People\People\bin\Debug\People.exe.config
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD18\Lab\people\People\People\bin\Debug\People.exe
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD18\Lab\people\People\People\bin\Debug\People.pdb
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD18\Lab\people\People\People\bin\Debug\People.xml
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD18\Lab\people\People\People\obj\Debug\People.vbprojAssemblyReference.cache
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD18\Lab\people\People\People\obj\Debug\People.Resources.resources
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD18\Lab\people\People\People\obj\Debug\People.frmPersons.resources
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD18\Lab\people\People\People\obj\Debug\People.vbproj.GenerateResource.cache
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD18\Lab\people\People\People\obj\Debug\People.vbproj.CoreCompileInputs.cache
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD18\Lab\people\People\People\obj\Debug\People.exe
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD18\Lab\people\People\People\obj\Debug\People.xml
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD18\Lab\people\People\People\obj\Debug\People.pdb
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD20\lab\People\People\bin\Debug\People.exe.config
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD20\lab\People\People\bin\Debug\People.exe
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD20\lab\People\People\bin\Debug\People.pdb
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD20\lab\People\People\bin\Debug\People.xml
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD20\lab\People\People\obj\Debug\People.vbprojAssemblyReference.cache
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD20\lab\People\People\obj\Debug\People.Resources.resources
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD20\lab\People\People\obj\Debug\People.frmPersons.resources
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD20\lab\People\People\obj\Debug\People.vbproj.GenerateResource.cache
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD20\lab\People\People\obj\Debug\People.vbproj.CoreCompileInputs.cache
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD20\lab\People\People\obj\Debug\People.exe
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD20\lab\People\People\obj\Debug\People.xml
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD20\lab\People\People\obj\Debug\People.pdb
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD20\lab\People - public\People\bin\Debug\People.exe.config
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD20\lab\People - public\People\bin\Debug\People.exe
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD20\lab\People - public\People\bin\Debug\People.pdb
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD20\lab\People - public\People\bin\Debug\People.xml
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD20\lab\People - public\People\obj\Debug\People.vbprojAssemblyReference.cache
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD20\lab\People - public\People\obj\Debug\People.Resources.resources
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD20\lab\People - public\People\obj\Debug\People.frmPersons.resources
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD20\lab\People - public\People\obj\Debug\People.vbproj.GenerateResource.cache
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD20\lab\People - public\People\obj\Debug\People.vbproj.CoreCompileInputs.cache
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD20\lab\People - public\People\obj\Debug\People.exe
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD20\lab\People - public\People\obj\Debug\People.xml
+C:\Users\Alarcos\Dropbox\DOCENCIA\BBDD\BBDD20\lab\People - public\People\obj\Debug\People.pdb
+C:\Users\Propietario\Downloads\People - public\People - public\People\bin\Debug\People.exe.config
+C:\Users\Propietario\Downloads\People - public\People - public\People\bin\Debug\People.exe
+C:\Users\Propietario\Downloads\People - public\People - public\People\bin\Debug\People.pdb
+C:\Users\Propietario\Downloads\People - public\People - public\People\bin\Debug\People.xml
+C:\Users\Propietario\Downloads\People - public\People - public\People\obj\Debug\People.vbprojAssemblyReference.cache
+C:\Users\Propietario\Downloads\People - public\People - public\People\obj\Debug\People.Resources.resources
+C:\Users\Propietario\Downloads\People - public\People - public\People\obj\Debug\People.frmPersons.resources
+C:\Users\Propietario\Downloads\People - public\People - public\People\obj\Debug\People.vbproj.GenerateResource.cache
+C:\Users\Propietario\Downloads\People - public\People - public\People\obj\Debug\People.vbproj.CoreCompileInputs.cache
+C:\Users\Propietario\Downloads\People - public\People - public\People\obj\Debug\People.exe
+C:\Users\Propietario\Downloads\People - public\People - public\People\obj\Debug\People.xml
+C:\Users\Propietario\Downloads\People - public\People - public\People\obj\Debug\People.pdb
+C:\Users\Propietario\source\repos\People - public\People\obj\Debug\People.vbprojAssemblyReference.cache
+C:\Users\Propietario\source\repos\People - public\People\obj\Debug\People.Resources.resources
+C:\Users\Propietario\source\repos\People - public\People\obj\Debug\People.frmPersons.resources
+C:\Users\Propietario\source\repos\People - public\People\obj\Debug\People.vbproj.GenerateResource.cache
+C:\Users\Propietario\source\repos\People - public\People\obj\Debug\People.vbproj.CoreCompileInputs.cache
+C:\Users\Propietario\source\repos\People - public\People\obj\Debug\People.exe
+C:\Users\Propietario\source\repos\People - public\People\obj\Debug\People.xml
+C:\Users\Propietario\source\repos\People - public\People\obj\Debug\People.pdb
+C:\Users\Propietario\source\repos\People - public\People\bin\Debug\People.exe.config
+C:\Users\Propietario\source\repos\People - public\People\bin\Debug\People.exe
+C:\Users\Propietario\source\repos\People - public\People\bin\Debug\People.pdb
+C:\Users\Propietario\source\repos\People - public\People\bin\Debug\People.xml
+E:\Documentos Universidad\Segundo\Segundo Cuatrimestre\Bases de Datos\Project 3 22-04\People - public\People\obj\Debug\People.vbprojAssemblyReference.cache
+E:\Documentos Universidad\Segundo\Segundo Cuatrimestre\Bases de Datos\Project 3 22-04\People - public\People\obj\Debug\People.Resources.resources
+E:\Documentos Universidad\Segundo\Segundo Cuatrimestre\Bases de Datos\Project 3 22-04\People - public\People\obj\Debug\People.ConnectForm.resources
+E:\Documentos Universidad\Segundo\Segundo Cuatrimestre\Bases de Datos\Project 3 22-04\People - public\People\obj\Debug\People.vbproj.GenerateResource.cache
+E:\Documentos Universidad\Segundo\Segundo Cuatrimestre\Bases de Datos\Project 3 22-04\People - public\People\obj\Debug\People.vbproj.CoreCompileInputs.cache
+E:\Documentos Universidad\Segundo\Segundo Cuatrimestre\Bases de Datos\Project 3 22-04\People - public\People\obj\Debug\People.exe
+E:\Documentos Universidad\Segundo\Segundo Cuatrimestre\Bases de Datos\Project 3 22-04\People - public\People\obj\Debug\People.xml
+E:\Documentos Universidad\Segundo\Segundo Cuatrimestre\Bases de Datos\Project 3 22-04\People - public\People\obj\Debug\People.pdb
+E:\Documentos Universidad\Segundo\Segundo Cuatrimestre\Bases de Datos\Project 3 22-04\People - public\People\bin\Debug\People.exe.config
+E:\Documentos Universidad\Segundo\Segundo Cuatrimestre\Bases de Datos\Project 3 22-04\People - public\People\bin\Debug\People.exe
+E:\Documentos Universidad\Segundo\Segundo Cuatrimestre\Bases de Datos\Project 3 22-04\People - public\People\bin\Debug\People.pdb
+E:\Documentos Universidad\Segundo\Segundo Cuatrimestre\Bases de Datos\Project 3 22-04\People - public\People\bin\Debug\People.xml
+E:\Documentos Universidad\Segundo\Segundo Cuatrimestre\Bases de Datos\Project 3 22-04\People - public\People\obj\Debug\People.MainForm.resources
+C:\Users\Propietario\Desktop\People\People\bin\Debug\People.exe.config
+C:\Users\Propietario\Desktop\People\People\bin\Debug\People.exe
+C:\Users\Propietario\Desktop\People\People\bin\Debug\People.pdb
+C:\Users\Propietario\Desktop\People\People\bin\Debug\People.xml
+C:\Users\Propietario\Desktop\People\People\obj\Debug\People.vbprojAssemblyReference.cache
+C:\Users\Propietario\Desktop\People\People\obj\Debug\People.Resources.resources
+C:\Users\Propietario\Desktop\People\People\obj\Debug\People.ConnectForm.resources
+C:\Users\Propietario\Desktop\People\People\obj\Debug\People.MainForm.resources
+C:\Users\Propietario\Desktop\People\People\obj\Debug\People.vbproj.GenerateResource.cache
+C:\Users\Propietario\Desktop\People\People\obj\Debug\People.vbproj.CoreCompileInputs.cache
+C:\Users\Propietario\Desktop\People\People\obj\Debug\People.exe
+C:\Users\Propietario\Desktop\People\People\obj\Debug\People.xml
+C:\Users\Propietario\Desktop\People\People\obj\Debug\People.pdb
+D:\Descargas\People\People\bin\Debug\People.exe.config
+D:\Descargas\People\People\bin\Debug\People.exe
+D:\Descargas\People\People\bin\Debug\People.pdb
+D:\Descargas\People\People\bin\Debug\People.xml
+D:\Descargas\People\People\obj\Debug\People.vbprojAssemblyReference.cache
+D:\Descargas\People\People\obj\Debug\People.Resources.resources
+D:\Descargas\People\People\obj\Debug\People.ConnectForm.resources
+D:\Descargas\People\People\obj\Debug\People.MainForm.resources
+D:\Descargas\People\People\obj\Debug\People.vbproj.GenerateResource.cache
+D:\Descargas\People\People\obj\Debug\People.exe
+D:\Descargas\People\People\obj\Debug\People.xml
+D:\Descargas\People\People\obj\Debug\People.pdb
+C:\Users\Propietario\Downloads\bugs\People bug gordo\People\bin\Debug\People.exe.config
+C:\Users\Propietario\Downloads\bugs\People bug gordo\People\bin\Debug\People.exe
+C:\Users\Propietario\Downloads\bugs\People bug gordo\People\bin\Debug\People.pdb
+C:\Users\Propietario\Downloads\bugs\People bug gordo\People\bin\Debug\People.xml
+C:\Users\Propietario\Downloads\bugs\People bug gordo\People\obj\Debug\People.vbprojAssemblyReference.cache
+C:\Users\Propietario\Downloads\bugs\People bug gordo\People\obj\Debug\People.Resources.resources
+C:\Users\Propietario\Downloads\bugs\People bug gordo\People\obj\Debug\People.ConnectForm.resources
+C:\Users\Propietario\Downloads\bugs\People bug gordo\People\obj\Debug\People.MainForm.resources
+C:\Users\Propietario\Downloads\bugs\People bug gordo\People\obj\Debug\People.vbproj.GenerateResource.cache
+C:\Users\Propietario\Downloads\bugs\People bug gordo\People\obj\Debug\People.vbproj.CoreCompileInputs.cache
+C:\Users\Propietario\Downloads\bugs\People bug gordo\People\obj\Debug\People.exe
+C:\Users\Propietario\Downloads\bugs\People bug gordo\People\obj\Debug\People.xml
+C:\Users\Propietario\Downloads\bugs\People bug gordo\People\obj\Debug\People.pdb
